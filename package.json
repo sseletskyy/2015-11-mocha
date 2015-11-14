@@ -1,0 +1,27 @@
+{
+  "name": "2015-11-mocha",
+  "version": "1.0.0",
+  "description": "Boilerplate for npm tdd project with mocha test",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sseletskyy/2015-11-mocha.git"
+  },  
+  "keywords": [
+    "boilerplate",
+    "tdd",
+    "mocha"
+  ],  
+  "author": "Serge Seletskyy <sseletskyy@gmail.com> (http://github.com/sseletskyy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sseletskyy/2015-11-mocha/issues"
+  }, 
+  "homepage": "https://github.com/sseletskyy/2015-11-mocha",   
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
